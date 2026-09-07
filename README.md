@@ -26,12 +26,12 @@ El reporte además calcula automáticamente: variación semana vs. semana y mes 
 
 ## 📁 Estructura del repositorio
 ```
-superstore-executive-sales-toast/
+superstore-executive-sales/
 ├── data/
 │   └── Sample_-_Superstore.csv
 ├── Screamshot/
 │   └── Executive Sales Report.png
-├── Exceutive_Sales_Report_-_Toast_Notifictaion.pbix   ← abrir este archivo
+├── Exceutive_Sales_Report.pbix   ← abrir este archivo
 └── README.md
 ```
 
