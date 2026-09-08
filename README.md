@@ -3,6 +3,7 @@
 ## 🚀 Descripción
 Reporte ejecutivo de ventas en Power BI, del dataset **[Sample Superstore](https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls)** (9,994 transacciones de retail en EE. UU., 2014-2017).
 
+> **Créditos:** el diseño y la estructura de este dashboard (visuales, layout, y la mecánica de notificación "Toast") están basados en la plantilla original de **[Sajjad Ahmadi](https://github.com/SajjadAhmadi)**.
 
 ## 📈 KPIs y métricas (dataset completo, 2014–2017)
 - **Total Sales:** $2,297,200.86
@@ -32,4 +33,7 @@ superstore-executive-sales/
 ├── Exceutive_Sales_Report.pbix   ← abrir este archivo
 └── README.md
 ```
+---
 
+## 📄 Licencia
+Este proyecto adapta una plantilla de diseño con licencia MIT (© 2024 Sajjad Ahmadi). Ver el archivo `LICENSE` para el texto completo del aviso de copyright original.
